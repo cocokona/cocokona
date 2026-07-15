@@ -54,10 +54,11 @@
 </td>
 <td width="50%">
 
-### 📱 Translation App - *Swift Minimalism*
-> **A lightweight bridge between cultures**  
-> Built an iOS front-end with Swift, integrating the University of Helsinki's pre-trained model to support **14 languages**. Optimized memory usage to cut **app launch time by 20%**.  
-> 🎨 *Creative twist: Packed complex NLP into a sleek, native iOS interface that feels like magic.*
+### 📱 ServiceHub App - *React Native / Expo*
+> **A lightweight bridge between Customer, Techician and Admin**  
+> A React Native / Expo client backed by a **Supabase (PostgreSQL)** data layer, with a **security-hardened schema, offline-first sync, and tokenized payments**
+> 
+> 🎨 *Creative twist: 60fps targets, lazy loading, optimized asset delivery.*
 
 </td>
 </tr>
