@@ -11,18 +11,18 @@
 ---
 
 <!-- ========== CREATIVE BIO (RPG Character Card Style) ========== -->
-### 🎮 Character Card | Status Overview
+###  Character Card | Status Overview
 
-- 🎓 **Currently Leveling Up:** BSc in AI & Information Engineering  
-- ⚙️ **Native Skill Tree:** Full-stack Dev, Embedded Systems, iOS Design, Computer Vision  
+-  **Currently Leveling Up:** BSc in AI & Information Engineering  
+- **Native Skill Tree:** Full-stack Dev, AI model training and fine-tune, Embedded Systems, iOS Design, Computer Vision  
 - 🧠 **Brain Architecture:** Left hemisphere = Logic (Python/Java/C), Right hemisphere = Narrative (UI/UX/Gamification)  
-- 🚀 **Current Side Quest:** Mastering real-time data streaming to build more intuitive IoT dashboards  
-- 🎯 **Life Mantra:** *“Translate hardcore engineering into interactive stories everyone can understand.”*
+- **Current Side Quest:** AI-powered Museum Guide with local AI
+- **Life Mantra:** *“Translate hardcore engineering into interactive stories everyone can understand.”*
 
 ---
 
 <!-- ========== CREATIVE PORTFOLIO (Focus on Storytelling & Visualization) ========== -->
-## ✨ Creative Portfolio | Bringing Ideas to Life
+## Creative Portfolio | Bringing Ideas to Life
 
 <table>
 <tr>
@@ -67,7 +67,7 @@
 ---
 
 <!-- ========== CREATIVE SKILL TREE (Visual Progress Bars) ========== -->
-## 🛠️ My Creative Toolbox
+## My Creative Toolbox
 
 | Category | Technologies |
 | :--- | :--- |
